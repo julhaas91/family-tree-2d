@@ -345,7 +345,7 @@ export function TopBar(props: Props) {
         greaterThanOrEqual="large"
         attached="top"
         inverted
-        color="blue"
+        style={{ backgroundColor: 'rgb(89,80,72)' }}
         size="large"
       >
         {desktopMenus()}
@@ -355,7 +355,7 @@ export function TopBar(props: Props) {
         at="small"
         attached="top"
         inverted
-        color="blue"
+        style={{ backgroundColor: 'rgb(89,80,72)' }}
         size="large"
       >
         {mobileMenus()}

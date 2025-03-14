@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "fritta-haas-webseite"
+  },
+  "targets": {
+    "fritta-haas-webseite": {
+      "hosting": {
+        "familie-site": [
+          "familie-site"
+        ]
+      }
+    }
+  }
+}
